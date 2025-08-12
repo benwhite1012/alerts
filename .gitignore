@@ -1,0 +1,22 @@
+﻿# secrets & env
+.env
+secret_keys.env
+*.env
+*.pem
+*.key
+
+# local creds/config
+.aws/
+.gcloud/
+.azure/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+.envrc
+
+# build/data junk
+*.mp4
+*.wav
+data/

@@ -1,0 +1,9 @@
+.env
+secret_keys.env
+__pycache__/
+*.pyc
+.venv/
+.git/
+*.mp4
+*.wav
+data/
